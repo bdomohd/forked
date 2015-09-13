@@ -1,5 +1,5 @@
 Text2.txt
-
+Change added after rename to text4-renamed in forked
 
 .btn > .caret, .dropup > .btn > .caret { border-top-color: #000 !important; }
 .label { border: 1px solid #000; }
