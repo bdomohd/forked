@@ -1,5 +1,6 @@
 Text1.txt
 
+Line added for case no4 under upstream
 === BootstrapWP ===
 
 Contributors: automattic
