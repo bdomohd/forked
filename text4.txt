@@ -7,3 +7,6 @@ Text2.txt
 .table-bordered th, .table-bordered td { border: 1px solid #ddd !important; }
 
 .table-bordered th, .table-bordered td { border: 1px solid #ddd !important; }.table-bordered th.table-bordered th, .table-bordered td { border: 1px solid #ddd !important; }.table-bordered th
+
+
+.table { border-collapse: collapse !important; }.table { border-collapse: collapse !important; }.table { border-collapse: collapse !important; }

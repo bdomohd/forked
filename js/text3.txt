@@ -6,7 +6,7 @@ $(function() {
 	// Javascript to fix win8 ie10 bug in windows phone
 	if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
 			var msViewportStyle = document.createElement("style");
-			msViewportStyle.appendChildmsViewportStyle.appendChild(
+			msViewportStyle.appendChildms(
 				document.createTextNode("@-ms-viewport{width:auto!important}")
 				);
 			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
