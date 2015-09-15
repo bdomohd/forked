@@ -3,14 +3,6 @@ Text2.txt
 .table { border-collapse: collapse !important; }
 .table td, .table th { background-color: #fff !important; }
 .table-bordered th, .table-bordered td { border: 1px solid #ddd !important; }
-
-a, a:visited { text-decoration: underline; }
-a[href]:after { content: " (" attr(href) ")"; }
-abbr[title]:after { content: " (" attr(title) ")"; }
-a[href^="#"]:after, a[href^="javascript:"]:after { content: ""; }
-pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
-thead { display: table-header-group; }
-
 img { max-width: 100% !important; }
 p, h2, h3 { orphans: 3; widows: 3; }
 h2, h3 { page-break-after: avoid; }
@@ -19,4 +11,8 @@ h2, h3 { page-break-after: avoid; }
 .label { border: 1px solid #000; }
 .table { border-collapse: collapse !important; }
 .table td, .table th { background-color: #fff !important; }
+.table-bordered th, .table-bordered td { border: 1px solid #ddd !important; }
+.table-bordered th, .table-bordered td { border: 1px solid #ddd !important; }
+.table-bordered th, .table-bordered td { border: 1px solid #ddd !important; }
+.table-bordered th, .table-bordered td { border: 1px solid #ddd !important; }
 .table-bordered th, .table-bordered td { border: 1px solid #ddd !important; }
