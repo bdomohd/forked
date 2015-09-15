@@ -1,5 +1,5 @@
 Text1.txt
-
+Tags: translation-ready, custom-background, theme-options, custom-menu, post-formats, threaded-comments
 Contributors: automattic
 Tags: translation-ready, custom-background, theme-options, custom-menu, post-formats, threaded-comments
 
