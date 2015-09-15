@@ -9,10 +9,17 @@ h2, h3 { page-break-after: avoid; }
 .navbar { display: none; }
 .btn > .caret, .dropup > .btn > .caret { border-top-color: #000 !important; }
 .label { border: 1px solid #000; }
+
 .table { border-collapse: collapse !important; }
 .table td, .table th { background-color: #fff !important; }
 .table-bordered th, .table-bordered td { border: 1px solid #ddd !important; }
 .table-bordered th, .table-bordered td { border: 1px solid #ddd !important; }
 .table-bordered th, .table-bordered td { border: 1px solid #ddd !important; }
 .table-bordered th, .table-bordered td { border: 1px solid #ddd !important; }
+.table-bordered th, .table-bordered td { border: 1px solid #ddd !important; }
+
+
+// Block of code
+.table { border-collapse: collapse !important; }
+.table td, .table th { background-color: #fff !important; }
 .table-bordered th, .table-bordered td { border: 1px solid #ddd !important; }

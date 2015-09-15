@@ -10,3 +10,9 @@ Text4.txt
 
 
 .table { border-collapse: collapse !important; }.table { border-collapse: collapse !important; }.table { border-collapse: collapse !important; }
+
+
+// The below code is to be omitted
+
+.table-bordered th.table-bordered th, .table-bordered td { border: 1px solid #ddd !important; }.table-bordered th
+
