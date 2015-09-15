@@ -4,6 +4,7 @@ Text3.txt
 $(function() {
 
 	// Javascript to fix win8 ie10 bug in windows phone
+	// This change was made in the forked branch but not there in upstream
 	if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
 			var msViewportStyle = document.createElement("style");
 			msViewportStyle.appendChildms(
@@ -13,3 +14,4 @@ $(function() {
 		}
 
 });
+
